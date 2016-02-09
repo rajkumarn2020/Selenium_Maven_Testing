@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20" started-at="2016-02-04T12:30:04Z" finished-at="2016-02-04T12:30:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20" started-at="2016-02-04T12:30:04Z" finished-at="2016-02-04T12:30:04Z">
+      <class name="com.learnautomation.selenium.demo">
+        <test-method status="PASS" signature="testhello()[pri:0, instance:com.learnautomation.selenium.demo@5b84c0]" name="testhello" duration-ms="9" started-at="2016-02-04T12:30:04Z" finished-at="2016-02-04T12:30:04Z">
+        </test-method> <!-- testhello -->
+      </class> <!-- com.learnautomation.selenium.demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
